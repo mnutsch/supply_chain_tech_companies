@@ -4,6 +4,6 @@ This is a list of tech/startup companies which make products related to supply c
 
 Last Updated: 2-26-2019
 
-##List:
-ONE Network: https://www.onenetwork.com/
-JDA: https://jda.com/
+## List:<br/>
+ONE Network: https://www.onenetwork.com/<br/>
+JDA: https://jda.com/<br/>
