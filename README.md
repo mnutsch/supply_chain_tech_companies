@@ -8,7 +8,6 @@ Last Updated: 2-26-2019
 ONE Network: https://www.onenetwork.com/<br/>
 JDA: https://jda.com/<br/>
 GT Nexus: https://www.gtnexus.com/<br/>
-
-More generalized enterprise platforms:
+<br/>
 Appian: https://www.appian.com<br/>
 
