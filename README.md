@@ -24,5 +24,6 @@ Syncron International: https://www.syncron.com/<br/>
 
 ### Low-Code Enterprise Development:<br/>
 Appian: https://www.appian.com<br/>
-Microsoft<br/>
-Salesforce<br/>
+Microsoft Powerapps<br/>
+Salesforce Lightning<br/>
+Zoho<br/>
