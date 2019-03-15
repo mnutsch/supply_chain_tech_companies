@@ -8,6 +8,8 @@ Last Updated: 3-6-2019
 ONE Network: https://www.onenetwork.com/<br/>
 JDA: https://jda.com/<br/>
 GT Nexus: https://www.gtnexus.com/<br/>
+IBM (Sterling Commerce): https://www.ibm.com/supply-chain/sterling-commerce<br/>
+FourKites: https://www.fourkites.com<br/>
 Tipalti: https://tipalti.com/<br/>
 Aptean: https://www.aptean.com/<br/>
 IFS AB: https://www.ifsworld.com/us/<br/>
