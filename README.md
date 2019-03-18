@@ -17,6 +17,8 @@ Logility: https://www.logility.com/<br/>
 Highjump: https://www.highjump.com/<br/>
 Descartes: https://www.descartes.com/<br/>
 BluJay: https://www.blujaysolutions.com/<br/>
+E2Open: https://www.e2open.com/<br/>
+Kinaxis: https://www.kinaxis.com/en<br/>
 
 ### General Enterprise Focus:<br/>
 Tipalti: https://tipalti.com/<br/>
