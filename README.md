@@ -6,7 +6,7 @@ Last Updated: 4-1-2019
 
 ## List:<br/>
 
-### True Supply Chain Focus:<br/>
+### Supply Chain Focused Software:<br/>
 ONE Network: https://www.onenetwork.com/<br/>
 JDA: https://jda.com/<br/>
 GT Nexus: https://www.gtnexus.com/<br/>
@@ -25,7 +25,7 @@ Staedtler: https://www.staedtler-logistik.de/en/logistics-software/index.html
 Alfa Plan: https://www.alfaplan.de/branchen/service-aussendienst/<br/>
 FLS: https://www.fastleansmart.com/en/<br/>
 
-### General Enterprise Focus:<br/>
+### General Enterprise Focus (some Supply Chain functionality):<br/>
 Tipalti: https://tipalti.com/<br/>
 Aptean: https://www.aptean.com/<br/>
 IFS AB: https://www.ifsworld.com/us/<br/>
@@ -40,7 +40,7 @@ Geneva Systems: http://www.genevasystems.com/<br/>
 Royal4: https://royal4.com/<br/>
 Seeburger: https://www.seeburger.com/<br/>
 
-### Low-Code App Development:<br/>
+### Low-Code App Development (not necessarily Supply Chain):<br/>
 Appian: https://www.appian.com<br/>
 Microsoft Powerapps: https://powerapps.microsoft.com/en-us/<br/>
 Salesforce Lightning: https://www.salesforce.com/campaign/lightning/<br/>
