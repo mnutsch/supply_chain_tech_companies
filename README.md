@@ -21,7 +21,7 @@ E2Open: https://www.e2open.com/<br/>
 Kinaxis: https://www.kinaxis.com/en<br/>
 Ortec: https://ortec.com/en-us/<br/>
 PTV Logistics: https://ptvlogistics.us/<br/>
-Staedtler: https://www.staedtler-logistik.de/en/logistics-software/index.html
+Staedtler: https://www.staedtler-logistik.de/en/logistics-software/index.html<br/>
 Alfa Plan: https://www.alfaplan.de/branchen/service-aussendienst/<br/>
 FLS: https://www.fastleansmart.com/en/<br/>
 
