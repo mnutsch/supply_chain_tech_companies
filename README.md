@@ -9,6 +9,7 @@ Last Updated: 4-1-2019
 ### Supply Chain Focused Software:<br/>
 ONE Network: https://www.onenetwork.com/<br/>
 JDA: https://jda.com/<br/>
+JDA (BlueYonder): https://www.blueyonder.ai/en<br/>
 GT Nexus: https://www.gtnexus.com/<br/>
 IBM (Sterling Commerce): https://www.ibm.com/supply-chain/sterling-commerce<br/>
 FourKites: https://www.fourkites.com<br/>
