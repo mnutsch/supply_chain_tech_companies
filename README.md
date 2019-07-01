@@ -2,7 +2,7 @@
 
 This is a list of tech/startup companies which make products related to supply chain. If there are companies missing, please create a pull request or send me the info and I will add them to the list.
 
-Last Updated: 4-1-2019
+Last Updated: 7-1-2019
 
 ## List:<br/>
 
@@ -25,6 +25,7 @@ PTV Logistics: https://ptvlogistics.us/<br/>
 Staedtler: https://www.staedtler-logistik.de/en/logistics-software/index.html<br/>
 Alfa Plan: https://www.alfaplan.de/branchen/service-aussendienst/<br/>
 FLS: https://www.fastleansmart.com/en/<br/>
+SupplyShift: https://www.supplyshift.net/<br/>
 
 ### General Enterprise Focus (some Supply Chain functionality):<br/>
 Tipalti: https://tipalti.com/<br/>
@@ -54,3 +55,6 @@ Nintex: https://www.nintex.com/<br/>
 Drupal: https://www.drupal.org/<br/>
 Wordpress https://wordpress.com<br/>
 Google App Maker: https://developers.google.com/appmaker/<br/>
+
+### Venture Capital Firms:<br/>
+Blackhorn Ventures: https://blackhornvc.com/<br/>
