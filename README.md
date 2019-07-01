@@ -26,6 +26,10 @@ Staedtler: https://www.staedtler-logistik.de/en/logistics-software/index.html<br
 Alfa Plan: https://www.alfaplan.de/branchen/service-aussendienst/<br/>
 FLS: https://www.fastleansmart.com/en/<br/>
 SupplyShift: https://www.supplyshift.net/<br/>
+Elementum: https://www.elementum.com/<br/>
+
+### Transportation Management only:<br/>
+MercuryGate: https://mercurygate.com/<br/>
 
 ### General Enterprise Focus (some Supply Chain functionality):<br/>
 Tipalti: https://tipalti.com/<br/>
