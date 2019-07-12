@@ -2,7 +2,7 @@
 
 This is a list of tech/startup companies which make products related to supply chain. If there are companies missing, please create a pull request or send me the info and I will add them to the list.
 
-Last Updated: 7-1-2019
+Last Updated: 7-12-2019
 
 ## List:<br/>
 
@@ -59,6 +59,17 @@ Nintex: https://www.nintex.com/<br/>
 Drupal: https://www.drupal.org/<br/>
 Wordpress https://wordpress.com<br/>
 Google App Maker: https://developers.google.com/appmaker/<br/>
+OutSystems: https://www.outsystems.com/<br/>
+Mendix: https://www.mendix.com/<br/>
+Kony: https://www.kony.com/<br/>
+ServiceNow: https://www.servicenow.com/<br/>
+Bizagi: https://www.bizagi.com/en<br/>
+K2: https://www.k2.com/<br/>
+AgilePoint: https://agilepoint.com/<br/>
+Trackvia: https://www.trackvia.com/<br/>
+Progress Software: https://www.progress.com/<br/>
+PNMSoft: http://www.pnmsoft.com/<br/>
+Skuid: https://www.skuid.com/<br/>
 
 ### Venture Capital Firms:<br/>
 Blackhorn Ventures: https://blackhornvc.com/<br/>
