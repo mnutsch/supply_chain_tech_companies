@@ -2,7 +2,7 @@
 
 This is a list of tech/startup companies which make products related to supply chain. If there are companies missing, please create a pull request or send me the info and I will add them to the list.
 
-Last Updated: 7-12-2019
+Last Updated: 8-26-2019
 
 ## List:<br/>
 
@@ -27,6 +27,8 @@ Alfa Plan: https://www.alfaplan.de/branchen/service-aussendienst/<br/>
 FLS: https://www.fastleansmart.com/en/<br/>
 SupplyShift: https://www.supplyshift.net/<br/>
 Elementum: https://www.elementum.com/<br/>
+Oracle: https://www.oracle.com/applications/supply-chain-management/<br/>
+Vitria: https://www.vitria.com/<br/>
 
 ### Transportation Management only:<br/>
 MercuryGate: https://mercurygate.com/<br/>
