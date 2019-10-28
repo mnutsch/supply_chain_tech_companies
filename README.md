@@ -35,6 +35,11 @@ On Process: https://www.onprocess.com/<br/>
 MercuryGate: https://mercurygate.com/<br/>
 Logixboard: https://logixboard.com/<br/>
 
+### Procurement:<br/>
+iValua: https://www.ivalua.com/<br/>
+Coupa: https://www.coupa.com/<br/>
+Ariba: https://www.ariba.com/<br/>
+
 ### General Enterprise Focus (some Supply Chain functionality):<br/>
 Tipalti: https://tipalti.com/<br/>
 Aptean: https://www.aptean.com/<br/>
