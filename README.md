@@ -2,7 +2,7 @@
 
 This is a list of tech/startup companies which make products related to supply chain. If there are companies missing, please create a pull request or send me the info and I will add them to the list.
 
-Last Updated: 10-28-2019
+Last Updated: 10-27-2021
 
 ## List:<br/>
 
@@ -34,6 +34,7 @@ On Process: https://www.onprocess.com/<br/>
 ### Transportation Management only:<br/>
 MercuryGate: https://mercurygate.com/<br/>
 Logixboard: https://logixboard.com/<br/>
+FarEye: https://www.getfareye.com/<br/>
 
 ### Procurement:<br/>
 iValua: https://www.ivalua.com/<br/>
