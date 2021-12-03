@@ -30,6 +30,7 @@ Elementum: https://www.elementum.com/<br/>
 Oracle: https://www.oracle.com/applications/supply-chain-management/<br/>
 Vitria: https://www.vitria.com/<br/>
 On Process: https://www.onprocess.com/<br/>
+Cloudleaf: https://www.cloudleaf.com/<br/>
 
 ### Transportation Management only:<br/>
 MercuryGate: https://mercurygate.com/<br/>
